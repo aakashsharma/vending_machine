@@ -5,5 +5,8 @@ It will rollback your transaction and exit if you have entered invalid item name
 To run the app command is 
 `ruby start_machine.rb`
 
+To run test suite install gem rspec with below command:
+`gem install rspec`
+
 Tests cases are lying in spec folder. To run the test suite:
-` rspec `
+` rspec ` 
