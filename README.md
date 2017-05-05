@@ -2,6 +2,8 @@ Its a vending machine, which you need to load item and coin inventory first. Aft
 
 It will rollback your transaction and exit if you have entered invalid item name or item quantity or fake coins or any invalid data after 3 failed attempts.
 
+Pre-requisite: Use ruby 2.4 as sum method used work slightly different than previous versions of ruby.
+
 To run the app command is 
 `ruby start_machine.rb`
 
